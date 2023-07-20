@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+
 }
 
 h1,
@@ -248,7 +249,8 @@ img {
 .container-team {
   display: flex;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: column; 
+  color: #F4F4FD;
 }
 .team-cards{
 display: inline-flex;
